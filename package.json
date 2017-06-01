@@ -1,0 +1,28 @@
+{
+  "name": "vue-image-preview",
+  "version": "1.0.0",
+  "description": "> A Vue.js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ochukai/vue-image-preview.git"
+  },
+  "keywords": [
+    "vue",
+    "image-preview",
+    "image",
+    "vue-image-preview"
+  ],
+  "author": "Oliver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ochukai/vue-image-preview/issues"
+  },
+  "homepage": "https://github.com/ochukai/vue-image-preview#readme",
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
